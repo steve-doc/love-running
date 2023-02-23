@@ -26,6 +26,7 @@ h1, h2 {
   margin-left: 30px;
 }
 
+/* Nav elements */
 #menu {
   float:right;
   font-size: 110%;
@@ -88,6 +89,7 @@ h1, h2 {
   }
 }
 
+/* Cover text */
 #cover-text, #cover-text h2 {
   color: white;
 }
@@ -215,6 +217,7 @@ hr {
   color: #fafafa;
 }
 
+/* Footer elements */
 footer {
   height: 150px;
 }
